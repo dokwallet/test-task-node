@@ -4,11 +4,17 @@
 
 <h4>1. setup mongodb locally</h2>
 <h4>2. Install packages using yarn or npm </h2>
-```yarn install```
+```
+yarn install
+```
 <h4>or</h4>
-```npm i```
+```
+npm i
+```
 <h4>3. Run project locally</h4>
-```yarn serve:watch```
+```
+yarn serve:watch
+```
 
 
 <h2>Project guidelines</h3>
