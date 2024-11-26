@@ -17,11 +17,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-
     "axios": "^1.7.7",
     "bcryptjs": "^2.4.3",
     "dayjs": "^1.11.12",
-    "middy": "^0.36.0",
+    "dotenv": "^16.4.5",
+    "middy": "^0.24.0",
     "mongoose": "^5.13.21",
     "uuid": "^10.0.0",
     "yup": "^1.4.0"
@@ -37,7 +37,7 @@
     "nodemon": "^3.0.2",
     "prettier": "^3.2.5",
     "serverless": "^3.38.0",
-    "serverless-offline": "^13.3.2",
+    "serverless-offline": "^13.8.3",
     "serverless-offline-watcher": "^1.1.0",
     "serverless-plugin-split-stacks": "^1.13.0"
   }
